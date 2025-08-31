@@ -1,0 +1,1 @@
+export const SECURE_LOGGER_OPTIONS = Symbol('SECURE_LOGGER_OPTIONS');
